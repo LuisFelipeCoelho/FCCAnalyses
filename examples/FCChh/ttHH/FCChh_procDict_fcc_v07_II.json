@@ -1,0 +1,1311 @@
+{
+    "mg_ph8_ttHH_1L_82TeV_edm4hep": {
+        "numberOfEvents": 10126,
+        "sumOfWeights": 10126,
+        "crossSection": 0.04202401,
+        "kfactor": 1,
+        "matchingEfficiency": 1
+    },
+    "mg_ph8_ttHH_inclusive_82TeV_edm4hep": {
+        "numberOfEvents": 36379,
+        "sumOfWeights": 36379,
+        "crossSection": 0.048419,
+        "kfactor": 1,
+        "matchingEfficiency": 1
+    },
+    "mgp8_pp_h012j_5f_haa": {
+        "numberOfEvents": 1820490,
+        "sumOfWeights": 1820342.0,
+        "crossSection": 1.3336249999999998,
+        "kfactor": 3.76,
+        "matchingEfficiency": 0.364
+    },
+    "mgp8_pp_tth01j_5f_haa": {
+        "numberOfEvents": 3063052,
+        "sumOfWeights": 3062618.0,
+        "crossSection": 0.1017868,
+        "kfactor": 1.22,
+        "matchingEfficiency": 0.613
+    },
+    "mgp8_pp_vbf_h01j_5f_haa": {
+        "numberOfEvents": 4306107,
+        "sumOfWeights": 4302403.0,
+        "crossSection": 0.19106589999999998,
+        "kfactor": 4.3,
+        "matchingEfficiency": 0.188
+    },
+    "mgp8_pp_vh012j_5f_haa": {
+        "numberOfEvents": 2723144,
+        "sumOfWeights": 2722252.0,
+        "crossSection": 0.08496609999999999,
+        "kfactor": 1.32,
+        "matchingEfficiency": 0.545
+    },
+    "mgp8_pp_jjaa_5f": {
+        "numberOfEvents": 55000000,
+        "sumOfWeights": 55000000.0,
+        "crossSection": 17.97,
+        "kfactor": 1.2,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tt012j_5f_blvblv": {
+        "numberOfEvents": 23394422,
+        "sumOfWeights": 23391646.0,
+        "crossSection": 4751.7566400000005,
+        "kfactor": 1.74,
+        "matchingEfficiency": 0.468
+    },
+    "mgp8_pp_vbf_h01j_5f_hwwlvlv": {
+        "numberOfEvents": 187870,
+        "sumOfWeights": 187712.0,
+        "crossSection": 1.9488685253386002,
+        "kfactor": 4.3,
+        "matchingEfficiency": 0.188
+    },
+    "mgp8_pp_h012j_5f_hmumu": {
+        "numberOfEvents": 1820381,
+        "sumOfWeights": 1820239.0,
+        "crossSection": 0.12784,
+        "kfactor": 3.76,
+        "matchingEfficiency": 0.364
+    },
+    "mgp8_pp_vbf_h01j_5f_hmumu": {
+        "numberOfEvents": 937431,
+        "sumOfWeights": 936669.0,
+        "crossSection": 0.018315392,
+        "kfactor": 4.3,
+        "matchingEfficiency": 0.187
+    },
+    "mgp8_pp_h012j_5f_72TeV_hmumu": {
+        "numberOfEvents": 1563689,
+        "sumOfWeights": 589920293.8883972,
+        "crossSection": 0.082093952,
+        "kfactor": 3.76,
+        "matchingEfficiency": 0.383
+    },
+    "mgp8_pp_vbf_h01j_5f_72TeV_hmumu": {
+        "numberOfEvents": 938569,
+        "sumOfWeights": 51755741.1086998,
+        "crossSection": 0.011998464,
+        "kfactor": 4.3,
+        "matchingEfficiency": 0.188
+    },
+    "mgp8_pp_tth01j_5f_hmumu": {
+        "numberOfEvents": 3063359,
+        "sumOfWeights": 3062933.0,
+        "crossSection": 0.009757184,
+        "kfactor": 1.22,
+        "matchingEfficiency": 0.613
+    },
+    "mgp8_pp_vh012j_5f_hmumu": {
+        "numberOfEvents": 2723844,
+        "sumOfWeights": 2722918.0,
+        "crossSection": 0.008144768,
+        "kfactor": 1.32,
+        "matchingEfficiency": 0.545
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_0_100": {
+        "numberOfEvents": 1224192,
+        "sumOfWeights": 1224192.0,
+        "crossSection": 382.9,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.696
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_100_300": {
+        "numberOfEvents": 471379,
+        "sumOfWeights": 471379.0,
+        "crossSection": 44.08,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.339
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_300_500": {
+        "numberOfEvents": 136137,
+        "sumOfWeights": 136133.0,
+        "crossSection": 4.723,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.221
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_500_700": {
+        "numberOfEvents": 84638,
+        "sumOfWeights": 84624.0,
+        "crossSection": 1.14,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.15
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_700_900": {
+        "numberOfEvents": 26175,
+        "sumOfWeights": 26171.0,
+        "crossSection": 0.3945,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.114
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_900_1100": {
+        "numberOfEvents": 15692,
+        "sumOfWeights": 15688.0,
+        "crossSection": 0.1691,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.089
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_1100_100000": {
+        "numberOfEvents": 16529,
+        "sumOfWeights": 16525.0,
+        "crossSection": 0.2093,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.06
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_0_100_72TeV": {
+        "numberOfEvents": 710435,
+        "sumOfWeights": 202379423.17059326,
+        "crossSection": 284.85,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.71
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_100_300_72TeV": {
+        "numberOfEvents": 268446,
+        "sumOfWeights": 8144436.219486237,
+        "crossSection": 30.35,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.353
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_300_500_72TeV": {
+        "numberOfEvents": 128562,
+        "sumOfWeights": 394006.576567173,
+        "crossSection": 3.07,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.237
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_500_700_72TeV": {
+        "numberOfEvents": 60259,
+        "sumOfWeights": 41670.15213274956,
+        "crossSection": 0.69,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.163
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_700_900_72TeV": {
+        "numberOfEvents": 35856,
+        "sumOfWeights": 8312.512078240514,
+        "crossSection": 0.2333,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.124
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_900_1100_72TeV": {
+        "numberOfEvents": 25283,
+        "sumOfWeights": 2480.743958182633,
+        "crossSection": 0.0983,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.099
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_1100_100000_72TeV": {
+        "numberOfEvents": 20479,
+        "sumOfWeights": 2338.433138720691,
+        "crossSection": 0.1146,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.067
+    },
+    "mgp8_pp_llll01j_mhcut_5f_HT_0_200": {
+        "numberOfEvents": 485324,
+        "sumOfWeights": 485324.0,
+        "crossSection": 0.04957,
+        "kfactor": 1.6,
+        "matchingEfficiency": 0.809
+    },
+    "mgp8_pp_llll01j_mhcut_5f_HT_200_500": {
+        "numberOfEvents": 561814,
+        "sumOfWeights": 561806.0,
+        "crossSection": 0.0002159,
+        "kfactor": 1.6,
+        "matchingEfficiency": 0.936
+    },
+    "mgp8_pp_llll01j_mhcut_5f_HT_500_1100": {
+        "numberOfEvents": 482732,
+        "sumOfWeights": 482644.0,
+        "crossSection": 5.573e-06,
+        "kfactor": 1.6,
+        "matchingEfficiency": 0.949
+    },
+    "mgp8_pp_llll01j_mhcut_5f_HT_1100_100000": {
+        "numberOfEvents": 75530,
+        "sumOfWeights": 75450.0,
+        "crossSection": 1.361e-07,
+        "kfactor": 1.6,
+        "matchingEfficiency": 0.971
+    },
+    "pwp8_pp_hh_lambda100_5f_hhbbaa": {
+        "numberOfEvents": 5000000,
+        "sumOfWeights": 5708621.6927348375,
+        "crossSection": 0.0029844128399999998,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "pwp8_pp_hh_lambda240_5f_hhbbaa": {
+        "numberOfEvents": 5000000,
+        "sumOfWeights": 2461770.4013165236,
+        "crossSection": 0.001286922174,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "pwp8_pp_hh_lambda300_5f_hhbbaa": {
+        "numberOfEvents": 5000000,
+        "sumOfWeights": 2961520.9327036142,
+        "crossSection": 0.001546911828,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_h012j_5f_hllll": {
+        "numberOfEvents": 3642051,
+        "sumOfWeights": 3641813.0,
+        "crossSection": 0.07285,
+        "kfactor": 3.76,
+        "matchingEfficiency": 0.364
+    },
+    "mgp8_pp_vbf_h01j_5f_hllll": {
+        "numberOfEvents": 1875525,
+        "sumOfWeights": 1873907.0,
+        "crossSection": 0.010437080000000001,
+        "kfactor": 4.3,
+        "matchingEfficiency": 0.188
+    },
+    "mgp8_pp_tth01j_5f_hllll": {
+        "numberOfEvents": 6126963,
+        "sumOfWeights": 6126013.0,
+        "crossSection": 0.005560160000000001,
+        "kfactor": 1.22,
+        "matchingEfficiency": 0.613
+    },
+    "pwp8_pp_hh_lambda000_5f_hhbbaa": {
+        "numberOfEvents": 4999750,
+        "sumOfWeights": 11811071.917265892,
+        "crossSection": 0.00617488866,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_vh012j_5f_hllll": {
+        "numberOfEvents": 5445988,
+        "sumOfWeights": 5444170.0,
+        "crossSection": 0.00464132,
+        "kfactor": 1.32,
+        "matchingEfficiency": 0.545
+    },
+    "mgp8_pp_h012j_5f_84TeV_haa": {
+        "numberOfEvents": 1868795,
+        "sumOfWeights": 870387302.6836548,
+        "crossSection": 1.0573433,
+        "kfactor": 3.76,
+        "matchingEfficiency": 0.375
+    },
+    "mgp8_pp_tth01j_5f_84TeV_haa": {
+        "numberOfEvents": 3098731,
+        "sumOfWeights": 101335379.37889099,
+        "crossSection": 0.074229,
+        "kfactor": 1.22,
+        "matchingEfficiency": 0.62
+    },
+    "mgp8_pp_vbf_h01j_5f_84TeV_haa": {
+        "numberOfEvents": 938507,
+        "sumOfWeights": 63198799.060310364,
+        "crossSection": 0.1528618,
+        "kfactor": 4.3,
+        "matchingEfficiency": 0.188
+    },
+    "mgp8_pp_vh012j_5f_84TeV_haa": {
+        "numberOfEvents": 2777960,
+        "sumOfWeights": 84374906.24527168,
+        "crossSection": 0.0689399,
+        "kfactor": 1.32,
+        "matchingEfficiency": 0.556
+    },
+    "mgp8_pp_vbf_ww_lvlv_5f_noHiggs_100TeV": {
+        "numberOfEvents": 999451,
+        "sumOfWeights": 15519365.275558472,
+        "crossSection": 15.53,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_z0123j_4f_ztautau": {
+        "numberOfEvents": 3926296,
+        "sumOfWeights": 3925208.0,
+        "crossSection": 17141.397,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.649
+    },
+    "mgp8_pp_h012j_5f_hlla": {
+        "numberOfEvents": 363655,
+        "sumOfWeights": 363627.0,
+        "crossSection": 0.06060389737500001,
+        "kfactor": 3.76,
+        "matchingEfficiency": 0.364
+    },
+    "mgp8_pp_vbf_h01j_5f_hlla": {
+        "numberOfEvents": 187985,
+        "sumOfWeights": 187825.0,
+        "crossSection": 0.008682604326900002,
+        "kfactor": 4.3,
+        "matchingEfficiency": 0.188
+    },
+    "mgp8_pp_wwz_5f_84TeV": {
+        "numberOfEvents": 800000,
+        "sumOfWeights": 956400.938751936,
+        "crossSection": 1.19631639,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_wzz_5f_84TeV": {
+        "numberOfEvents": 600000,
+        "sumOfWeights": 219852.02994847298,
+        "crossSection": 0.366538126,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_zzz_5f_84TeV": {
+        "numberOfEvents": 800000,
+        "sumOfWeights": 99220.40733024478,
+        "crossSection": 0.12407978,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_wwwz_5f_84TeV": {
+        "numberOfEvents": 700000,
+        "sumOfWeights": 9941.678008507937,
+        "crossSection": 0.0142157910582,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_wwww_5f_84TeV": {
+        "numberOfEvents": 800000,
+        "sumOfWeights": 8920.998389994726,
+        "crossSection": 0.01115638325,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_wwzz_5f_84TeV": {
+        "numberOfEvents": 800000,
+        "sumOfWeights": 7835.318565685302,
+        "crossSection": 0.0097964825796,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_wzzz_5f_84TeV": {
+        "numberOfEvents": 900000,
+        "sumOfWeights": 1176.4694689468015,
+        "crossSection": 0.0013072910755,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_zzzz_5f_84TeV": {
+        "numberOfEvents": 900000,
+        "sumOfWeights": 331.34715307620354,
+        "crossSection": 0.000368175,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_ttw_5f_84TeV": {
+        "numberOfEvents": 700000,
+        "sumOfWeights": 3655628.9661026,
+        "crossSection": 5.2201,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_ttz_5f_84TeV": {
+        "numberOfEvents": 700000,
+        "sumOfWeights": 19729340.505283356,
+        "crossSection": 28.15392,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_ttwz_5f_84TeV": {
+        "numberOfEvents": 500000,
+        "sumOfWeights": 29312.182546317577,
+        "crossSection": 0.0586109,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_ttww_5f_84TeV": {
+        "numberOfEvents": 200000,
+        "sumOfWeights": 112576.24896466732,
+        "crossSection": 0.56262139,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_ttzz_5f_84TeV": {
+        "numberOfEvents": 300000,
+        "sumOfWeights": 26177.74701219797,
+        "crossSection": 0.08724706,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tttt_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 157302.2988331318,
+        "crossSection": 1.57231582,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_jj_HT_200_2000_5f_84TeV": {
+        "numberOfEvents": 1000000,
+        "sumOfWeights": 22441898468932.0,
+        "crossSection": 22495887.1,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_jj_HT_2000_100000_5f_84TeV": {
+        "numberOfEvents": 1000000,
+        "sumOfWeights": 2254117952.8754883,
+        "crossSection": 2273.275,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tt_HT_200_2000_5f_84TeV": {
+        "numberOfEvents": 1000000,
+        "sumOfWeights": 8939260146.65625,
+        "crossSection": 8944.59,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tt_HT_2000_100000_5f_84TeV": {
+        "numberOfEvents": 1000000,
+        "sumOfWeights": 7844294.276062012,
+        "crossSection": 7.83749,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_ww_HT_200_2000_5f_84TeV": {
+        "numberOfEvents": 990410,
+        "sumOfWeights": 73804249.96525574,
+        "crossSection": 74.5053,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_ww_HT_2000_100000_5f_84TeV": {
+        "numberOfEvents": 1000000,
+        "sumOfWeights": 58175.249906368554,
+        "crossSection": 0.0581782,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_zz_HT_200_2000_5f_84TeV": {
+        "numberOfEvents": 1000000,
+        "sumOfWeights": 14162601.560079575,
+        "crossSection": 14.149,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_zz_HT_2000_100000_5f_84TeV": {
+        "numberOfEvents": 1000000,
+        "sumOfWeights": 11894.480574915186,
+        "crossSection": 0.011906,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tautau_HT_200_2000_5f_84TeV": {
+        "numberOfEvents": 1000000,
+        "sumOfWeights": 5880244.98462677,
+        "crossSection": 5.8772,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tautau_HT_2000_100000_5f_84TeV": {
+        "numberOfEvents": 213212,
+        "sumOfWeights": 73.58062070066808,
+        "crossSection": 0.00042966,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_lvlv_HT_200_2000_5f_84TeV": {
+        "numberOfEvents": 1000000,
+        "sumOfWeights": 7637174.65877533,
+        "crossSection": 7.656941584,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_lvlv_HT_2000_100000_5f_84TeV": {
+        "numberOfEvents": 158476,
+        "sumOfWeights": 1063.3186878832057,
+        "crossSection": 0.0067953154478,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_h012j_5f_84TeV_hllll": {
+        "numberOfEvents": 1871893,
+        "sumOfWeights": 871823619.8694458,
+        "crossSection": 0.057757960000000004,
+        "kfactor": 3.76,
+        "matchingEfficiency": 0.374
+    },
+    "mgp8_pp_vbf_h01j_5f_84TeV_hllll": {
+        "numberOfEvents": 941233,
+        "sumOfWeights": 63381505.64067078,
+        "crossSection": 0.00835016,
+        "kfactor": 4.3,
+        "matchingEfficiency": 0.188
+    },
+    "mgp8_pp_tth01j_5f_84TeV_hllll": {
+        "numberOfEvents": 3100381,
+        "sumOfWeights": 101388313.11777878,
+        "crossSection": 0.004054800000000001,
+        "kfactor": 1.22,
+        "matchingEfficiency": 0.62
+    },
+    "mgp8_pp_vh012j_5f_84TeV_hllll": {
+        "numberOfEvents": 2778784,
+        "sumOfWeights": 84399419.67566872,
+        "crossSection": 0.00376588,
+        "kfactor": 1.32,
+        "matchingEfficiency": 0.556
+    },
+    "pwp8_pp_hh_lambda100_5f_hhbbtata": {
+        "numberOfEvents": 5000000,
+        "sumOfWeights": 5708621.6927348375,
+        "crossSection": 0.082464039,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "pwp8_pp_hh_lambda240_5f_hhbbtata": {
+        "numberOfEvents": 5000000,
+        "sumOfWeights": 2461770.4013165236,
+        "crossSection": 0.03555969165,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "pwp8_pp_hh_lambda300_5f_hhbbtata": {
+        "numberOfEvents": 5000000,
+        "sumOfWeights": 2961520.9327036142,
+        "crossSection": 0.0427436163,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "pwp8_pp_hh_lambda000_5f_hhbbtata": {
+        "numberOfEvents": 4999750,
+        "sumOfWeights": 11811071.917265892,
+        "crossSection": 0.17062192350000002,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tth_5f_84TeV": {
+        "numberOfEvents": 1000000,
+        "sumOfWeights": 17447357.946178436,
+        "crossSection": 17.50415,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_ttaa01j_5f_84TeV": {
+        "numberOfEvents": 2778718,
+        "sumOfWeights": 428190.02327385545,
+        "crossSection": 0.153633071796,
+        "kfactor": 1.0,
+        "matchingEfficiency": 0.543
+    },
+    "mgp8_pp_Vaajj_HF_5f_84TeV": {
+        "numberOfEvents": 2600000,
+        "sumOfWeights": 66497.60910764337,
+        "crossSection": 0.0256,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tt012j_5f_84TeV": {
+        "numberOfEvents": 47798452,
+        "sumOfWeights": 1522855453816.9434,
+        "crossSection": 31838.8464905,
+        "kfactor": 1.0,
+        "matchingEfficiency": 0.478
+    },
+    "mgp8_pp_vbf_h_jjlvlv_5f_100TeV": {
+        "numberOfEvents": 4816019,
+        "sumOfWeights": 5606140.612951994,
+        "crossSection": 1.168,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_ttz_5f_84TeV_ttzlep": {
+        "numberOfEvents": 1000000,
+        "sumOfWeights": 28178862.980422974,
+        "crossSection": 0.31342700548608,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_ttzz_5f_84TeV_zzbbee": {
+        "numberOfEvents": 1000000,
+        "sumOfWeights": 87263.70098130405,
+        "crossSection": 0.0008958528120800001,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tttt_5f_84TeV_4tlep": {
+        "numberOfEvents": 900000,
+        "sumOfWeights": 1416433.4481475353,
+        "crossSection": 0.019102584038128187,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_ttzz_5f_84TeV_zzbbmumu": {
+        "numberOfEvents": 1000000,
+        "sumOfWeights": 87263.70098130405,
+        "crossSection": 0.0008958528120800001,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_vbf_h_jjlvlv_5f_84TeV": {
+        "numberOfEvents": 967957,
+        "sumOfWeights": 870605.0898497701,
+        "crossSection": 1.0,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_ttzz_5f_84TeV_zzllll": {
+        "numberOfEvents": 1000000,
+        "sumOfWeights": 87263.70098130405,
+        "crossSection": 0.00198932021506,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tt_HT_200_2000_5f_84TeV_blvblv": {
+        "numberOfEvents": 1000000,
+        "sumOfWeights": 8939260146.65625,
+        "crossSection": 985.90848816,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tt_HT_2000_100000_5f_84TeV_blvblv": {
+        "numberOfEvents": 1000000,
+        "sumOfWeights": 7844294.276062012,
+        "crossSection": 0.86387949776,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_h012j_5f_hwwlvlv": {
+        "numberOfEvents": 2202474,
+        "sumOfWeights": 2202304.0,
+        "crossSection": 13.602949490750001,
+        "kfactor": 3.76,
+        "matchingEfficiency": 0.364
+    },
+    "mgp8_pp_tth01j_5f_84TeV_haaexcl": {
+        "numberOfEvents": 9299212,
+        "sumOfWeights": 304072275.6576576,
+        "crossSection": 0.074229,
+        "kfactor": 1.22,
+        "matchingEfficiency": 0.62
+    },
+    "mgp8_pp_tt012j_5f_84TeV_blvblv": {
+        "numberOfEvents": 72462609,
+        "sumOfWeights": 2308735288341.2695,
+        "crossSection": 3509.405015568872,
+        "kfactor": 1.0,
+        "matchingEfficiency": 0.535
+    },
+    "mgp8_pp_jjaa_5f_84TeV": {
+        "numberOfEvents": 5000000,
+        "sumOfWeights": 71718788.28048706,
+        "crossSection": 14.34,
+        "kfactor": 1.2,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_h012j_5f_84TeV_hmumu": {
+        "numberOfEvents": 1873154,
+        "sumOfWeights": 872425887.7938538,
+        "crossSection": 0.10135590400000001,
+        "kfactor": 3.76,
+        "matchingEfficiency": 0.375
+    },
+    "mgp8_pp_vbf_h01j_5f_84TeV_hmumu": {
+        "numberOfEvents": 938487,
+        "sumOfWeights": 63194761.78410339,
+        "crossSection": 0.014653184000000001,
+        "kfactor": 4.3,
+        "matchingEfficiency": 0.188
+    },
+    "mgp8_pp_tth01j_5f_84TeV_hmumu": {
+        "numberOfEvents": 3099259,
+        "sumOfWeights": 101352231.99117279,
+        "crossSection": 0.007115520000000001,
+        "kfactor": 1.22,
+        "matchingEfficiency": 0.62
+    },
+    "mgp8_pp_vh012j_5f_84TeV_hmumu": {
+        "numberOfEvents": 2778023,
+        "sumOfWeights": 84378675.42706299,
+        "crossSection": 0.006608512,
+        "kfactor": 1.32,
+        "matchingEfficiency": 0.556
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_0_100_84TeV": {
+        "numberOfEvents": 1395281,
+        "sumOfWeights": 451131946.7568054,
+        "crossSection": 322.68,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.701
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_100_300_84TeV": {
+        "numberOfEvents": 503320,
+        "sumOfWeights": 18160869.287200928,
+        "crossSection": 36.09,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.346
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_300_500_84TeV": {
+        "numberOfEvents": 270392,
+        "sumOfWeights": 1010561.0959715843,
+        "crossSection": 3.75,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.231
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_500_700_84TeV": {
+        "numberOfEvents": 115701,
+        "sumOfWeights": 100808.18172675371,
+        "crossSection": 0.87,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.157
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_700_900_84TeV": {
+        "numberOfEvents": 74829,
+        "sumOfWeights": 22135.830166131258,
+        "crossSection": 0.2966,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.118
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_900_1100_84TeV": {
+        "numberOfEvents": 44376,
+        "sumOfWeights": 5601.217490255833,
+        "crossSection": 0.1264,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.093
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_1100_100000_84TeV": {
+        "numberOfEvents": 37112,
+        "sumOfWeights": 5622.432350978255,
+        "crossSection": 0.1516,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.062
+    },
+    "pwp8_pp_hh_lambda100_5f_80TeV_SA_hhbbtata": {
+        "numberOfEvents": 1200000,
+        "sumOfWeights": 975749.7068959475,
+        "crossSection": 0.059187303000000004,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "pwp8_pp_hh_lambda240_5f_80TeV_SA_hhbbtata": {
+        "numberOfEvents": 1176000,
+        "sumOfWeights": 425305.96626624465,
+        "crossSection": 0.0260537445,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "pwp8_pp_hh_lambda300_5f_80TeV_SA_hhbbtata": {
+        "numberOfEvents": 1200000,
+        "sumOfWeights": 515292.33422368765,
+        "crossSection": 0.03104272395,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "pwp8_pp_hh_lambda100_5f_80TeV_SA_hhbbaa": {
+        "numberOfEvents": 300000,
+        "sumOfWeights": 244024.1257133484,
+        "crossSection": 0.00214201668,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "pwp8_pp_hh_lambda240_5f_80TeV_SA_hhbbaa": {
+        "numberOfEvents": 300000,
+        "sumOfWeights": 108625.78085964918,
+        "crossSection": 0.0009428974199999999,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "pwp8_pp_hh_lambda300_5f_80TeV_SA_hhbbaa": {
+        "numberOfEvents": 300000,
+        "sumOfWeights": 129047.4913713932,
+        "crossSection": 0.0011234509619999999,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "pwp8_pp_hh_lambda100_5f_120TeV_SA_hhbbaa": {
+        "numberOfEvents": 300000,
+        "sumOfWeights": 445604.33424448967,
+        "crossSection": 0.00391283682,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "pwp8_pp_hh_lambda240_5f_120TeV_SA_hhbbaa": {
+        "numberOfEvents": 300000,
+        "sumOfWeights": 199872.59318363667,
+        "crossSection": 0.0017499752399999999,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "pwp8_pp_hh_lambda300_5f_120TeV_SA_hhbbaa": {
+        "numberOfEvents": 297000,
+        "sumOfWeights": 231233.10768163204,
+        "crossSection": 0.002040581988,
+        "kfactor": 1.075363,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_h012j_5f_120TeV_haa": {
+        "numberOfEvents": 1766539,
+        "sumOfWeights": 1321805690.109558,
+        "crossSection": 1.6985275,
+        "kfactor": 3.76,
+        "matchingEfficiency": 0.355
+    },
+    "mgp8_pp_tth01j_5f_120TeV_haa": {
+        "numberOfEvents": 3023989,
+        "sumOfWeights": 185937630.34563065,
+        "crossSection": 0.1395823,
+        "kfactor": 1.22,
+        "matchingEfficiency": 0.606
+    },
+    "mgp8_pp_vbf_h01j_5f_120TeV_haa": {
+        "numberOfEvents": 939057,
+        "sumOfWeights": 99012799.19285583,
+        "crossSection": 0.2393715,
+        "kfactor": 4.3,
+        "matchingEfficiency": 0.189
+    },
+    "mgp8_pp_vh012j_5f_120TeV_haa": {
+        "numberOfEvents": 2660101,
+        "sumOfWeights": 123034773.86227417,
+        "crossSection": 0.1049875,
+        "kfactor": 1.32,
+        "matchingEfficiency": 0.532
+    },
+    "mgp8_pp_jjaa_5f_120TeV": {
+        "numberOfEvents": 5000000,
+        "sumOfWeights": 112232777.72903442,
+        "crossSection": 22.44,
+        "kfactor": 1.2,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_0_100_120TeV": {
+        "numberOfEvents": 687247,
+        "sumOfWeights": 301659991.5928345,
+        "crossSection": 438.786,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.687
+    },
+    "mgp8_pp_jj_HT_200_317_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 1811611620000.0,
+        "crossSection": 18113075.3,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_jj_HT_317_502_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 354247284398.0,
+        "crossSection": 3527789.6,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_jj_HT_502_796_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 63220493989.5,
+        "crossSection": 632857.2,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_jj_HT_796_1262_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 10244228574.59375,
+        "crossSection": 103208.453,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_jj_HT_1262_2000_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 1505729838.8203125,
+        "crossSection": 14947.7019,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_jj_HT_2000_3170_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 198109695.38452148,
+        "crossSection": 2008.86349,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_jj_HT_3170_5024_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 12398685.01890564,
+        "crossSection": 189.043061,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_jj_HT_5024_7962_5f_84TeV": {
+        "numberOfEvents": 60587,
+        "sumOfWeights": 21808.197186545935,
+        "crossSection": 1.3109,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tt_HT_200_317_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 413639142.28125,
+        "crossSection": 4151.39,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tt_HT_317_502_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 316669688.41308594,
+        "crossSection": 3156.06,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tt_HT_502_796_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 127509766.60961914,
+        "crossSection": 1281.883,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tt_HT_796_1262_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 30246539.916992188,
+        "crossSection": 302.763,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tt_HT_1262_2000_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 5132327.669563293,
+        "crossSection": 51.4209,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tt_HT_2000_3170_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 697896.8865823746,
+        "crossSection": 6.96616,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tt_HT_3170_5024_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 77195.99621653557,
+        "crossSection": 0.75534538,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tt_HT_5024_7962_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 7282.204905197024,
+        "crossSection": 0.07257434,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tt_HT_7962_12619_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 532.9184150192887,
+        "crossSection": 0.005328663465,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tt_HT_12619_20000_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 27.515405177837238,
+        "crossSection": 0.00027502086703,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tautau_HT_200_317_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 437335.000038147,
+        "crossSection": 4.3866,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tautau_HT_317_502_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 112146.1009979248,
+        "crossSection": 1.12471,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tautau_HT_502_796_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 29173.89988899231,
+        "crossSection": 0.29141,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tautau_HT_796_1262_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 4048.8999895751476,
+        "crossSection": 0.055887,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tautau_HT_1262_2000_5f_84TeV": {
+        "numberOfEvents": 50102,
+        "sumOfWeights": 92.62584839761257,
+        "crossSection": 0.0017945,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tautau_HT_2000_3170_5f_84TeV": {
+        "numberOfEvents": 3115,
+        "sumOfWeights": 4.710913436603732,
+        "crossSection": 0.0015583,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_lvlv_HT_200_317_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 565298.9864349365,
+        "crossSection": 5.6377011178,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_lvlv_HT_317_502_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 144912.0819568634,
+        "crossSection": 1.453392763,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_lvlv_HT_502_796_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 40273.385643959045,
+        "crossSection": 0.4048459654,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_lvlv_HT_796_1262_5f_84TeV": {
+        "numberOfEvents": 100000,
+        "sumOfWeights": 10470.402267694473,
+        "crossSection": 0.10446955854,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_lvlv_HT_1262_2000_5f_84TeV": {
+        "numberOfEvents": 85455,
+        "sumOfWeights": 2096.285061478615,
+        "crossSection": 0.0250003623776,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_lvlv_HT_2000_3170_5f_84TeV": {
+        "numberOfEvents": 23202,
+        "sumOfWeights": 125.27747957222164,
+        "crossSection": 0.0054426462954,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_lvlv_HT_3170_5024_5f_84TeV": {
+        "numberOfEvents": 4890,
+        "sumOfWeights": 4.94101605436299,
+        "crossSection": 0.00101301702374,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_lvlv_HT_5024_7962_5f_84TeV": {
+        "numberOfEvents": 7944,
+        "sumOfWeights": 1.2426937006384833,
+        "crossSection": 0.00015548816151,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_lvlv_HT_7962_12619_5f_84TeV": {
+        "numberOfEvents": 16279,
+        "sumOfWeights": 0.2926424916477117,
+        "crossSection": 1.80080790008e-05,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_lvlv_HT_12619_20000_5f_84TeV": {
+        "numberOfEvents": 19387,
+        "sumOfWeights": 0.010299732153214336,
+        "crossSection": 7.0485853e-07,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_tth01j_5f_72TeV_hmumu": {
+        "numberOfEvents": 3131228,
+        "sumOfWeights": 77012891.22353554,
+        "crossSection": 0.00535296,
+        "kfactor": 1.22,
+        "matchingEfficiency": 0.626
+    },
+    "mgp8_pp_vh012j_5f_72TeV_hmumu": {
+        "numberOfEvents": 2830626,
+        "sumOfWeights": 71405331.50251389,
+        "crossSection": 0.0054878719999999995,
+        "kfactor": 1.32,
+        "matchingEfficiency": 0.566
+    },
+    "mgp8_pp_h012j_5f_120TeV_hmumu": {
+        "numberOfEvents": 1770269,
+        "sumOfWeights": 1324596704.2323608,
+        "crossSection": 0.1628192,
+        "kfactor": 3.76,
+        "matchingEfficiency": 0.355
+    },
+    "mgp8_pp_vbf_h01j_5f_120TeV_hmumu": {
+        "numberOfEvents": 942701,
+        "sumOfWeights": 99389524.02577972,
+        "crossSection": 0.02294592,
+        "kfactor": 4.3,
+        "matchingEfficiency": 0.189
+    },
+    "mgp8_pp_tth01j_5f_120TeV_hmumu": {
+        "numberOfEvents": 3029269,
+        "sumOfWeights": 186261196.57310104,
+        "crossSection": 0.013380224000000001,
+        "kfactor": 1.22,
+        "matchingEfficiency": 0.606
+    },
+    "mgp8_pp_vh012j_5f_120TeV_hmumu": {
+        "numberOfEvents": 2660772,
+        "sumOfWeights": 123064231.8935852,
+        "crossSection": 0.010064,
+        "kfactor": 1.32,
+        "matchingEfficiency": 0.532
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_100_300_120TeV": {
+        "numberOfEvents": 273932,
+        "sumOfWeights": 14655330.631065369,
+        "crossSection": 53.5075,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.333
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_300_500_120TeV": {
+        "numberOfEvents": 119867,
+        "sumOfWeights": 712171.8534564972,
+        "crossSection": 5.939,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.215
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_500_700_120TeV": {
+        "numberOfEvents": 66697,
+        "sumOfWeights": 95274.70993614197,
+        "crossSection": 1.4301,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.144
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_700_900_120TeV": {
+        "numberOfEvents": 40357,
+        "sumOfWeights": 20328.269333034754,
+        "crossSection": 0.5047,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.106
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_900_1100_120TeV": {
+        "numberOfEvents": 18439,
+        "sumOfWeights": 4058.9944417327642,
+        "crossSection": 0.2201,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.084
+    },
+    "mgp8_pp_mumu012j_mhcut_5f_HT_1100_100000_120TeV": {
+        "numberOfEvents": 15512,
+        "sumOfWeights": 4329.022514179349,
+        "crossSection": 0.2803,
+        "kfactor": 1.2,
+        "matchingEfficiency": 0.055
+    },
+    "mgp8_pp_zjj_4f_84TeV": {
+        "numberOfEvents": 54996318,
+        "sumOfWeights": 324602966480.2461,
+        "crossSection": 1.0,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_ttjj_5f_84TeV_blvblv": {
+        "numberOfEvents": 34990000,
+        "sumOfWeights": 18078269436.170105,
+        "crossSection": 0.110224,
+        "kfactor": 1.0,
+        "matchingEfficiency": 1.0
+    },
+    "mgp8_pp_zjj_4f_84TeV_ztautau": {
+        "numberOfEvents": 2972442,
+        "sumOfWeights": 17545236770.615723,
+        "crossSection": 0.03367,
+        "kfactor": 1.0,
+        "matchingEfficiency": 0.308
+    },
+    "mgp8_pp_llll01j_mhcut_5f_HT_0_200_84TeV": {
+        "numberOfEvents": 816012,
+        "sumOfWeights": 34972.85671937838,
+        "crossSection": 0.0428,
+        "kfactor": 1.6,
+        "matchingEfficiency": 0.816
+    },
+    "mgp8_pp_llll01j_mhcut_5f_HT_200_500_84TeV": {
+        "numberOfEvents": 939668,
+        "sumOfWeights": 159.6477052391565,
+        "crossSection": 0.000167211,
+        "kfactor": 1.6,
+        "matchingEfficiency": 0.94
+    },
+    "mgp8_pp_llll01j_mhcut_5f_HT_500_1100_84TeV": {
+        "numberOfEvents": 951911,
+        "sumOfWeights": 4.331210951848107,
+        "crossSection": 4.56474206631e-06,
+        "kfactor": 1.6,
+        "matchingEfficiency": 0.952
+    },
+    "mgp8_pp_llll01j_mhcut_5f_HT_1100_100000_84TeV": {
+        "numberOfEvents": 955211,
+        "sumOfWeights": 0.08481227745648567,
+        "crossSection": 8.65346339341e-08,
+        "kfactor": 1.6,
+        "matchingEfficiency": 0.974
+    },
+    "mgp8_pp_llll01j_mhcut_5f_HT_0_200_72TeV": {
+        "numberOfEvents": 821328,
+        "sumOfWeights": 31134.502672560513,
+        "crossSection": 0.037901,
+        "kfactor": 1.6,
+        "matchingEfficiency": 0.821
+    },
+    "mgp8_pp_llll01j_mhcut_5f_HT_200_500_72TeV": {
+        "numberOfEvents": 942132,
+        "sumOfWeights": 133.16907086782157,
+        "crossSection": 0.00014137,
+        "kfactor": 1.6,
+        "matchingEfficiency": 0.942
+    },
+    "mgp8_pp_llll01j_mhcut_5f_HT_500_1100_72TeV": {
+        "numberOfEvents": 954302,
+        "sumOfWeights": 3.415569025517698,
+        "crossSection": 1.0,
+        "kfactor": 3.5948e-06,
+        "matchingEfficiency": 0.954
+    },
+    "mgp8_pp_llll01j_mhcut_5f_HT_1100_100000_72TeV": {
+        "numberOfEvents": 956237,
+        "sumOfWeights": 0.062119480530093085,
+        "crossSection": 6.5118e-08,
+        "kfactor": 1.6,
+        "matchingEfficiency": 0.975
+    },
+    "mgp8_pp_llll01j_mhcut_5f_HT_0_200_120TeV": {
+        "numberOfEvents": 805372,
+        "sumOfWeights": 45653.361606657505,
+        "crossSection": 0.056681,
+        "kfactor": 1.6,
+        "matchingEfficiency": 0.805
+    },
+    "mgp8_pp_llll01j_mhcut_5f_HT_200_500_120TeV": {
+        "numberOfEvents": 934242,
+        "sumOfWeights": 239.73030629355344,
+        "crossSection": 0.00025697,
+        "kfactor": 1.6,
+        "matchingEfficiency": 0.934
+    },
+    "mgp8_pp_llll01j_mhcut_5f_HT_500_1100_120TeV": {
+        "numberOfEvents": 946412,
+        "sumOfWeights": 7.068701591935678,
+        "crossSection": 7.4646e-06,
+        "kfactor": 1.6,
+        "matchingEfficiency": 0.946
+    },
+    "mgp8_pp_llll01j_mhcut_5f_HT_1100_100000_120TeV": {
+        "numberOfEvents": 949544,
+        "sumOfWeights": 0.16732177246383628,
+        "crossSection": 1.7696e-07,
+        "kfactor": 1.6,
+        "matchingEfficiency": 0.969
+    }
+}

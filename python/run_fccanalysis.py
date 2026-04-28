@@ -312,7 +312,7 @@ def initialize(config, args, analysis):
         LOGGER.info('Multithreading enabled. Running over %i threads',
                     ROOT.GetThreadPoolSize())
     else:
-        LOGGER.info('No multithreading enabled. Running in single thread...')
+        LOGGER.info('&& No multithreading enabled. Running in single thread...')
 
     # custom header files
     include_paths = get_attribute(analysis, 'include_paths', None)

@@ -282,11 +282,13 @@ def initialize(args, rdf_module, anapath: str):
         LOGGER.info('Multithreading enabled. Running over %i threads',
                     ROOT.GetThreadPoolSize())
     else:
-        LOGGER.info('No multithreading enabled. Running in single thread...')
+        LOGGER.info('!!No multithreading enabled. Running in single thread...')
 
     # custom header files
     include_paths = get_element(rdf_module, "includePaths")
+    LOGGER.info("AAAAAAAAAAAAA1 --> ", rdf_module, includePaths)
     if include_paths:
+        LOGGER.info("AAAAAAAAAAAAA --> ",includePaths)
         ROOT.gInterpreter.ProcessLine(".O3")
         basepath = os.path.dirname(os.path.abspath(anapath)) + "/"
         for path in include_paths:
@@ -982,7 +984,7 @@ def run(parser):
 
     # Load the analysis script as a module
     anapath = os.path.abspath(anapath)
-    LOGGER.info('Loading analysis script:\n%s', anapath)
+    LOGGER.info('Loading analysis script aa:\n%s', anapath)
     try:
         rdf_spec = importlib.util.spec_from_file_location('rdfanalysis',
                                                           anapath)
